@@ -6,6 +6,10 @@ I am currently a Ph.D. student at the School of Cyber Engineering, Xidian Univer
 
 My current research interests focus on AI security, including jailbreak attacks, and the security analysis of retrieval-augmented generation (RAG) systems and agents. Previously, I was also deeply interested in privacy-preserving computation, involving techniques such as secure multi-party computation (MPC) and privacy-preserving machine learning (PPML).
 
+I am currently focused on content generation and security mechanisms in large language models. If you are seeking any form of academic cooperation, please feel free to email me at li.cy@stu.xidian.edu.cn. 
+
 ### 📎 Homepages
-- Personal Pages: [https://lcy5201314.github.io](https://lcy5201314.github.io) (updated 2025.06.01)
-- Google Scholar: [https://scholar.google.com/citations?user=4FA6C0AAAAAJ](https://scholar.google.com/citations?user=GSUw3OsAAAAJ)
+- Personal Pages: [Chunyang Li](https://lcy5201314.github.io) (updated 2025.06.01)
+- Google Scholar: [Chunyang Li](https://scholar.google.com/citations?user=GSUw3OsAAAAJ)
+- Email: li.cy@stu.xidian.edu.cn or li.chunyang@stu.xidian.edu.cn
+
