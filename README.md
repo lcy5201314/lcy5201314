@@ -9,5 +9,3 @@ My current research interests focus on AI security, including jailbreak attacks,
 ### 📎 Homepages
 - Personal Pages: [https://lcy5201314.github.io](https://lcy5201314.github.io) (updated 2025.06.01)
 - Google Scholar: [https://scholar.google.com/citations?user=4FA6C0AAAAAJ](https://scholar.google.com/citations?user=GSUw3OsAAAAJ)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lcy5201314&show_icons=true&theme=dark&count_private=true)
