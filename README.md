@@ -9,7 +9,7 @@ My current research interests focus on AI security, including jailbreak attacks,
 I am currently focused on content generation and security mechanisms in large language models. If you are seeking any form of academic cooperation, please feel free to email me at li.cy@stu.xidian.edu.cn. 
 
 ### 📎 Homepages
-- Personal Pages: [Chunyang Li](https://lcy5201314.github.io) (updated 2025.06.01)
+- Personal Pages: [Chunyang Li](https://lichunyang.top/) (updated 2025.06.01)
 - Google Scholar: [Chunyang Li](https://scholar.google.com/citations?user=GSUw3OsAAAAJ)
 - Email: li.cy@stu.xidian.edu.cn or li.chunyang@stu.xidian.edu.cn
 
